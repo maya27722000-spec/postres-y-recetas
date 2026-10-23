@@ -11,3 +11,6 @@ Annie
 
 ## Estado actual del proyecto
 En desarrollo (Creación del repositorio inicial y estructuración de las primeras recetas).
+
+## Índice de Recetas
+- [Galletas con Chispas de Chocolate](recetas/galletas-chispas.md)
